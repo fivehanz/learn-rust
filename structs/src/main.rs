@@ -1,5 +1,3 @@
-
-
 fn main() {
     let mut user1 = User {
         email: String::from("email@example.com"),
